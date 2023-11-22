@@ -16,3 +16,15 @@ Este é um projeto de clone do Spotify, desenvolvido com HTML e CSS, criado como
 - Seções de serviços e recursos destacando o que o Spotify oferece.
 - Rodapé com links úteis e ícones de redes sociais.
 
+##Aprendizados
+
+
+Implementação de um design responsivo usando Bootstrap.
+Utilização de ícones e estilos do Font Awesome.
+Organização de seções informativas para destacar os principais pontos do serviço.
+
+
+##Contribuição
+
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
